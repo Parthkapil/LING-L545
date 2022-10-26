@@ -1,6 +1,6 @@
 ### How many uppercase words are there in the Aragonese Wikipedia? Lowercase? Hint: wc -l or grep -c
 
-command: grep -oE '\b[A-Z]+\b' wiki.txt | wc -l
+command: `grep -oE '\b[A-Z]+\b' wiki.txt | wc -l`
 result: 103170
 
 ### How many 4-letter words?
