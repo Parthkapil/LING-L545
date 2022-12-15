@@ -1,0 +1,31 @@
+"<apple>"
+	"apple" NOUN Number=Sing
+	"apple" PROPN Number=Sing
+"<is>"
+	"be" AUX Mood=Ind Number=Sing Person=3 Tense=Pres VerbForm=Fin
+	"is" PRON Number=Sing Person=3 PronType=Prs
+	"is" AUX Mood=Ind Number=Sing Person=3 Tense=Pres VerbForm=Fin
+"<a>"
+	"a" DET Type=Art
+	"a" NOUN
+	"a" PRON
+"<fruit>"
+	"fruit" NOUN Number=Sing
+	"fruit" VERB Mood=Ind Number=Sing Person=3 Tense=Pres VerbForm=Fin
+"<that>"
+	"that" PRON PronType=Rel
+	"that" PRON PronType=Dem
+"<comes>"
+	"come" VERB Mood=Ind Number=Sing Person=3 Tense=Pres VerbForm=Fin
+	"come" VERB Mood=Ind Number=Plur Person=3 Tense=Pres VerbForm=Fin
+"<from>"
+	"from" ADP
+	"from" SCONJ
+	"from" ADJ
+"<the>"
+	"the" DET Definite=Def PronType=Art
+"<apple>"
+	"apple" NOUN Number=Sing
+	"apple" PROPN Number=Sing
+"<tree>"
+	"tree" NOUN Number=Sing
